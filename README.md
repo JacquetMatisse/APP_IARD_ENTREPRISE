@@ -13,7 +13,9 @@ Ce projet est une application web permettant de créer, gérer et simuler des de
 ## Prérequis
 
 - Python
-- django et les dépandances (pip install django djangorestframework python-docx docx2pdf)
+- django et les dépandances
+  pip install django djangorestframework python-docx docx2pdf
+  pip install django-cors-headers
 
 ## Lancement du Projet
 
